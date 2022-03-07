@@ -1,0 +1,3 @@
+pynetstring==0.5
+PyGObject==3.42.0
+

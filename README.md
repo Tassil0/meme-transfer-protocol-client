@@ -1,9 +1,12 @@
 # meme-transfer-protocol-client
 
-## TODO:
+## jak spustit
 
-- [ ] comm
+- je potřeba mít GTK na systému
+- `pip install -r requirements.txt`
 
-## Ideas
+## extra features
 
-- v gui bude ikona indikující spojení, na začátku se pokusí automaticky přihlásit uloženými credentials
+- náhled obrázku
+- ping serveru
+
