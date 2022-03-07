@@ -1,3 +1,7 @@
 [submodule "gt4-python"]
 	path = gt4-python
 	url = https://github.com/timlau/gtk4-python
+[submodule "gtk4-python"]
+	path = gtk4-python
+	url = https://github.com/timlau/gtk4-python
+	branch = master
