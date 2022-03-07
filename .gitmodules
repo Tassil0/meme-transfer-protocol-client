@@ -1,0 +1,3 @@
+[submodule "gt4-python"]
+	path = gt4-python
+	url = https://github.com/timlau/gtk4-python
